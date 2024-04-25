@@ -1,4 +1,10 @@
+Portfolio_5511716
+
 Mein erstes Flutter-Projekt
+
+Afaq Ahmed
+MA 5511716
+
 Herzlich willkommen zu meinem ersten Flutter-Projekt! In diesem Projekt habe ich mich mit Flutter vertraut gemacht und meine ersten Schritte in der Entwicklung von plattformübergreifenden mobilen Apps unternommen.
 
 Vorbereitung
